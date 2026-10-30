@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local dataset (not included in this repository)
+cleaned_registrations.csv
+
+# Generated outputs
+*.pkl
+*.pickle
+*.joblib
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
